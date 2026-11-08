@@ -1,7 +1,7 @@
-APPENDICES
+#APPENDICES
 
-APPENDIX A
-CODE
+#APPENDIX A
+#CODE
 
 import os
 from os import listdir
